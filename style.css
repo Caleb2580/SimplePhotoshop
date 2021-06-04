@@ -1,0 +1,145 @@
+QWidget[objectName="centralwidget"] {
+    background-color: rgb(20, 20, 20);
+}
+
+QLabel[objectName="canvas"] {
+    background-color: transparent;
+    border-width: 5px;
+    border-style: solid;
+    border-color: rgb(30, 30, 30);
+}
+
+QFrame[objectName="ToolsFrame"] {
+    background-color: black;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(100, 100, 100);
+}
+
+QFrame[objectName="LayersFrame"] {
+    background-color: black;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(100, 100, 100);
+}
+
+QPushButton[objectName="Brush"] {
+    color: white;
+    background-color: black;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+}
+
+QPushButton[objectName="Brush"]::pressed {
+    border-color: rgb(150, 150, 150);
+}
+
+QPushButton[objectName="Eraser"] {
+    color: white;
+    background-color: black;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+}
+
+QPushButton[objectName="Eraser"]::pressed {
+    border-color: rgb(150, 150, 150);
+}
+
+QPushButton[objectName="Move"] {
+    color: white;
+    background-color: black;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+}
+
+QPushButton[objectName="Move"]::pressed {
+    border-color: rgb(150, 150, 150);
+}
+
+QPushButton[objectName="Smooth"] {
+    color: white;
+    background-color: black;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+}
+
+QPushButton[objectName="Smooth"]::pressed {
+    border-color: rgb(150, 150, 150);
+}
+
+
+QPushButton[objectName="SaveButton"] {
+    color: white;
+    background-color: black;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+}
+
+QPushButton[objectName="SaveButton"]::pressed {
+    border-color: rgb(150, 150, 150);
+}
+
+QPushButton[objectName="MinusSizeButton"] {
+    color: white;
+    background-color: black;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+}
+
+QPushButton[objectName="MinusSizeButton"]::pressed {
+    border-color: rgb(150, 150, 150);
+}
+
+QPushButton[objectName="PlusSizeButton"] {
+    color: white;
+    background-color: black;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+}
+
+QPushButton[objectName="PlusSizeButton"]::pressed {
+    border-color: rgb(150, 150, 150);
+}
+
+/*QPushButton[objectName = "ColorExample"] {*/
+/*    background-color: rgb(255, 0, 0);*/
+/*    border-width: 0px;*/
+/*    border-style: solid;*/
+/*    border-color: rgb(20, 20, 20);*/
+/*}*/
+
+/*QPushButton[objectName = "ColorExample"]::pressed*/
+/*{*/
+/*    border-width: 2px;*/
+/*}*/
+
+QPushButton[objectName="AddLayerButton"] {
+    color: white;
+    background-color: black;
+    border-width: 0px;
+    border-style: solid;
+    border-color: rgb(20, 20, 20);
+}
+
+QPushButton[objectName="AddLayerButton"]::pressed {
+    border-width: 2px;
+}
+
+QPushButton[objectName="DeleteLayerButton"] {
+    color: white;
+    background-color: black;
+    border-width: 0px;
+    border-style: solid;
+    border-color: rgb(20, 20, 20);
+}
+
+QPushButton[objectName="DeleteLayerButton"]::pressed {
+    border-width: 2px;
+}
