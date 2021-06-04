@@ -2,5 +2,5 @@
 
 <img src="./imgs/Editor.PNG">
 <img src="./imgs/Brush.PNG">
-<img src="./imgs/acne.JPG">
-<img src="./imgs/smoothed_acne.PNG">
+<img src="./imgs/acne.jpg">
+<img src="./imgs/smoothed_acne.png">
